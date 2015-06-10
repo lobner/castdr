@@ -28,7 +28,7 @@ function _runCastdrBookmarklet() {
 			handleBonanza();
 			break;
 		default:
-			throw "Please use on eiher dr.dk/tv or dr.dk/Bonanza";
+			throw "Please use on dr.dk/tv";
 	}
 }
 
